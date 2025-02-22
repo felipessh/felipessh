@@ -11,8 +11,8 @@ que eu faço são para clientes e projetos privados.
 
 ---
 <div align="center">
- <h3> <strong>Linguagens e Ferramentas:</strong></h3>
+ <h3> <strong>Linguagens/Ferramentas:</strong></h3>
     
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,react,expressjs,tailwindcss,mongodb,git)]()
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,git)]()
 </div>
 
