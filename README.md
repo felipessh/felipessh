@@ -5,14 +5,6 @@ que eu faço são para clientes e projetos privados.
 
 ```
 <div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lipesshw&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipesshw&layout=compact&theme=react&hide_border=true&langs_count=7"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipessh&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipessh&layout=compact&theme=react&hide_border=true&langs_count=7"/>
 </div>
-
----
-<div align="center">
- <h3> <strong>Linguagens/Ferramentas:</strong></h3>
-    
-[![My Skills](https://skillicons.dev/icons?i=javascript,java,git)]()
-</div>
-
